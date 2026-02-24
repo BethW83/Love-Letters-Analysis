@@ -77,6 +77,15 @@
 
 ## Credits
 
+- https://github.com/Code-Institute-Org/data-analytics-template
+- https://github.com/Code-Institute-Solutions/da-README-template
+
+- Kaggle data: https://www.kaggle.com/datasets/fillerink/love-letters
+
+"This dataset consists of text files containing love letters written by real people in the past.
+
+The links to the sites from which the letters have been scraped: https://theromantic.com/LoveLetters/main.htm https://www.countryliving.com/life/inspirational-stories/g4061/famous-love-letters/"
+
 - In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
 - You can break the credits section up into Content and Media, depending on what you have included in your project.
 
